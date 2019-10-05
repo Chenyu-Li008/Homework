@@ -14,4 +14,7 @@
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%951.jpg)
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%953.jpg)
 
+## 关于自己身边被收集的数据 ##
+首先是最为贴近我们个人的信息，或者称之为隐私，比如身份证号、家庭住址、父母姓名等，这些信息在我们使用身份信息时会被收集，比如网购时会留下住址信息。其次是反映个体习惯、喜好或者行为倾向的数据，比如消费记录，这在我们
+
 #### 以上，期待老师的建议！ ####
