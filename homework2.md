@@ -24,11 +24,11 @@
 [知乎](https://www.zhihu.com/question/19969760)  
 [探马科技：最全的中国开放数据(Open Data)及政府数据开放平台汇总](http://www.tanmer.com/blog/451)  
 #### 国外 ####
-[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)
-[美国官网数据超市](https://www.data.gov/)
-[新加坡政府开放数据平台](https://data.gov.sg/)
-[休斯顿市开放数据门户网站](http://data.houstontx.gov/)
-[美国人口普查局](http://usgovxml.com/)
+[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)  
+[美国官网数据超市](https://www.data.gov/)  
+[新加坡政府开放数据平台](https://data.gov.sg/)  
+[休斯顿市开放数据门户网站](http://data.houstontx.gov/)  
+[美国人口普查局](http://usgovxml.com/)  
 
 信源：
 [探马科技：【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
@@ -46,6 +46,7 @@
 有两种指标可以选取，一种为GDP（现价），一种为GDP（不变价），查阅资料可知，现价是名义价格，不变价是以某年份现价作为基期扣除价格变动因素的价格。  
 按现价计算的指标，在不同年份之间的变动包含价格变动和物量变动的因素，必须消除价格变动的因素后才能真实反映经济发展动态。  
 而使用不变价计算增速可以减少因价格变化造成的影响，因此计算增速选择GDP（不变价）。  
+![](https://github.com/Chenyu-Li008/Homework/blob/master/7.png)
 ### 数据页面 ###
 2011年至2018年GDP（不变价）数据整理如下（顺序为第四季度-第三季度-第二季度-第一季度）  
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/3.jpg)
