@@ -7,44 +7,31 @@
 [《上海市公共数据开放暂行办法》](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw41893/nw42230/u21aw1401306.html)  
 ### 政府开放数据平台 ###
 #### 国内 ####
-中华人民共和国中央人民政府数据公开 http://www.gov.cn/shuju/
-中国国家统计局 http://www.stats.gov.cn
-中国人民银行数据 http://www.pbc.gov.cn/diaochatongjisi/116219/index.html
-中国银行业监督管理委员会数据http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html
-中国经济数据库 https://www.ceicdata.com/zh-hans/products/china-economic-database
-中国金融信息网数据 http://dc.xinhua08.com/
-中国互联网信息安全中心数据 https://www.cnnic.net.cn/hlwfzyj/hlwxzbg/
-
-山东公共数据开放网 http://data.sd.gov.cn/
-（山东省的各市的数据开房网）
-德州市公共数据开放网 http://dzdata.sd.gov.cn/
-济宁市公共数据开放网 http://jindata.sd.gov.cn/
-
-浙江省公共数据开放网 http://data.zjzwfw.gov.cn/jdop_front/index.do
-成都市公共数据开放平台 http://www.cddata.gov.cn/
-厦门市大数据开放平台 http://data.xm.gov.cn/
-
-信源：
-知乎：https://www.zhihu.com/question/19969760
-探马科技：最全的中国开放数据(Open Data)及政府数据开放平台汇总 http://www.tanmer.com/blog/451
+[中华人民共和国中央人民政府数据公开](http://www.gov.cn/shuju/)  
+[中国国家统计局](http://www.stats.gov.cn)  
+[中国人民银行数据](http://www.pbc.gov.cn/diaochatongjisi/116219/index.html)  
+[中国银行业监督管理委员会数据](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)  
+[中国经济数据库](https://www.ceicdata.com/zh-hans/products/china-economic-database)  
+[中国金融信息网数据](http://dc.xinhua08.com/)  
+[中国互联网信息安全中心数据](https://www.cnnic.net.cn/hlwfzyj/hlwxzbg/)  
+[山东公共数据开放网](http://data.sd.gov.cn/)  
+[德州市公共数据开放网](http://dzdata.sd.gov.cn/)  
+[济宁市公共数据开放网](http://jindata.sd.gov.cn/)  
+[浙江省公共数据开放网](http://data.zjzwfw.gov.cn/jdop_front/index.do)  
+[成都市公共数据开放平台](http://www.cddata.gov.cn/)  
+[厦门市大数据开放平台](http://data.xm.gov.cn/)  
+信源：  
+[知乎](https://www.zhihu.com/question/19969760)  
+[探马科技：最全的中国开放数据(Open Data)及政府数据开放平台汇总](http://www.tanmer.com/blog/451)  
 #### 国外 ####
-纽约政府开放数据平台
-https://opendata.cityofnewyork.us/
-
-美国官网数据超市
-https://www.data.gov/
-
-新加坡政府开放数据平台
-https://data.gov.sg/
-
-休斯顿市开放数据门户网站
-http://data.houstontx.gov/
-
-美国人口普查局
-http://usgovxml.com/
+[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)
+[美国官网数据超市](https://www.data.gov/)
+[新加坡政府开放数据平台](https://data.gov.sg/)
+[休斯顿市开放数据门户网站](http://data.houstontx.gov/)
+[美国人口普查局](http://usgovxml.com/)
 
 信源：
-探马科技：【Open Data】国外开放数据中心及政府数据开放平台汇总 http://www.tanmer.com/blog/537
+[探马科技：【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
 
 ## 二、计算增速 ##
 题目：	在国家统计局数据库找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
