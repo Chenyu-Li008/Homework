@@ -2,10 +2,9 @@
 ## 一、数据来源 ##
 问题：我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？
 ### 我国关于公共数据开放的条例或法规 ###
-[《政务信息资源共享管理暂行办法》](https://baike.baidu.com/item/%E6%94%BF%E5%8A%A1%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB%E7%AE%A1%E7%90%86%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95/19974171?fr=aladdin)
-[《贵阳市政府数据共享开放实施办法》]
-(http://www.gywb.cn/content/2018-05/02/content_5709098.htm)
-[《上海市公共数据开放暂行办法》](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw41893/nw42230/u21aw1401306.html)
+[《政务信息资源共享管理暂行办法》](https://baike.baidu.com/item/%E6%94%BF%E5%8A%A1%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB%E7%AE%A1%E7%90%86%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95/19974171?fr=aladdin)  
+[《贵阳市政府数据共享开放实施办法》](http://www.gywb.cn/content/2018-05/02/content_5709098.htm)  
+[《上海市公共数据开放暂行办法》](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw41893/nw42230/u21aw1401306.html)  
 ### 政府开放数据平台 ###
 #### 国内 ####
 中华人民共和国中央人民政府数据公开 http://www.gov.cn/shuju/
