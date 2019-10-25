@@ -6,9 +6,10 @@ Hanabi 在线数据可视工具作
 百度图说 在线数据可视化工具，方便之处在于可以有排版图片和文字的最大自由度。  
 
 ### 国外 ###
-Excel 插入图表功能
-rstudio 绘制图表
+Excel 插入图表功能  
+rstudio 绘制图表  
 Tableau 可视化软件（学生可以免费使用一年）  
+datawrapper  
 [Piktochart 在线数据可视化工具](https://piktochart.com/)  
 [Infogram 在线数据可视化工具](https://infogram.com/)  
 [Wordart 在线制作词云工具](https://wordart.com/)  
@@ -19,7 +20,7 @@ Tagxedo 在线制作词云工具
   在数据集中，我选取的数据是关于加利福尼亚洲的失业率情况  
 ### 使用的工具及呈现 ###
 #### 图一：2016年12月加利福尼亚周各县失业率词云（wordart） ####
-![](https://github.com/Chenyu-Li008/Homework/blob/master/1-%E8%AF%8D%E4%BA%91%E5%9B%BE.png)
+![](https://github.com/Chenyu-Li008/Homework/blob/master/1-%E8%AF%8D%E4%BA%91%E5%9B%BE.png)  
 图中可以反映出失业率较高的几个县市。而且比较有趣。  
 #### 图二：1990年到2016年加利福尼亚州旧金山市的每个月份失业率箱线图（tabluae） ####
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/2-%E7%AE%B1%E7%BA%BF%E5%9B%BE.png)
