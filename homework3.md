@@ -28,6 +28,10 @@ Tagxedo 在线制作词云工具
 #### 图三：1990年到2016年加利福尼亚州各县市年均失业率对比（tableau） ####
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/3-26%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%B1%E4%B8%9A%E7%8E%87.jpg)
 除了看出26年来各个县市的失业率变化趋势之外，也能够横向对比各个县市的失业率。
+
+#### 修改版图三 ####
+![](https://github.com/Chenyu-Li008/Homework/blob/master/%E5%8A%A0%E5%B7%9E%E5%90%84%E5%8E%BF%E5%B8%821990-2016%E5%B9%B4%E6%AF%8F%E5%B9%B4%E5%85%AD%E6%9C%88%E5%A4%B1%E4%B8%9A%E7%8E%87.jpg)  
+
 #### 图四：2016年加州主要四个城市各月失业率（hanabi） ####
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/4-2016%E5%B9%B4%E5%8A%A0%E5%B7%9E%E4%B8%BB%E8%A6%81%E5%9F%8E%E5%B8%82%E5%90%84%E6%9C%88%E5%A4%B1%E4%B8%9A%E7%8E%87%20.jpg)
 既可以比较不同月份的失业率，也可以比较不同县市同月的失业率、相同县市2016年失业率变化。
