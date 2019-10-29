@@ -1,5 +1,6 @@
 # 中国快递包装的绿化之路 #
 ## 最终图文呈现 ##
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week4/1.jpg)  
 ## 过程步骤 ##
 ### 数据来源 ###
 2017年我国各类快递垃圾数据参考：[人民网：快递业绿色化改造提速](http://env.people.com.cn/n1/2018/0730/c1010-30177184.html)  
