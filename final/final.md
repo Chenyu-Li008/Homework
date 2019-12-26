@@ -3,7 +3,7 @@
 &emsp;&emsp; 清幽问她，“那你需要什么？”  
 &emsp;&emsp; 女孩悄悄低语：“您能不能送我一包卫生巾？”    
 ## Part1. 女性会因为贫穷而被月经打败吗？
-&emsp;&emsp; 为了回答这个问题，我们需要先把目光投向远处。  
+&emsp;&emsp;为了回答这个问题，我们需要先把目光投向远处。  
 &emsp;&emsp;每隔一个月左右，人类女性子宫内膜会发生一次自主增厚，子宫内膜崩溃脱落并伴随出血。这种周期性子宫出血并阴道排血现象，叫做月经（Menstrual cycle）。女性经期时通常会排出30-50毫升血肉，在持续五到七天的经期中，经血会不定时从女性阴道涌出。因此，在经期如果想要保持正常工作和生活，女性需要特殊的卫生用品来接住生理期的经血。  
 &emsp;&emsp;“经期贫困”（period poverty）一词源自国外，它的[定义](https://www.collinsdictionary.com/submission/19192/period+poverty)是女性由于贫困而无法购买生理期用品。这是全球女性每月都要面临的挑战，它深刻影响到了女性的健康发展，全球有4000万女性正在经受经期贫困。  
 &emsp;&emsp; 在欧洲，英国伦敦的慈善机构Plan International UK的[调查](https://plan-uk.org/media-centre/1-in-10-girls-have-been-unable-to-afford-sanitary-wear-survey-finds)显示，10%的在校女孩无法负担生理卫生产品，另外15%的女孩在负担不起卫生巾的边缘。  
