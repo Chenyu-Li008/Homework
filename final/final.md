@@ -52,7 +52,8 @@
 ************************
 ## 数据来源：
 
-皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature、外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
+皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature、  
+外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
 
 Statista：世界卫生用品市场各国占有率及全年市场收入、卫生巾市场规模https://www.statista.com/study/48853/tissue-and-hygiene-paper-report-feminine-hygiene/  
 
@@ -60,7 +61,7 @@ UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Gui
 UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf  
 
 卫生棉条价格对比https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
-印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY
+印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY  
 印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
 中国卫生巾、卫生棉条市场参考：https://www.zhitongcaijing.com/content/detail/221856.html
 https://www.wdoodoo.com/article-2540.html  
@@ -98,23 +99,23 @@ Kaggle：无数据
 WHO女性、儿童与健康专题：无数据  
 知网、万方数据库：只有关于卫生巾技术创新的文章、科普生理卫生的报道，没有相关调查研究  
 ## 后记
-我翻遍了google、bing和百度搜索引擎上的内容，翻了一遍又一遍的statista。  
-几乎一切“卫生巾”相关的数据统计都是和商业挂钩的，现存的报告都是关于卫生巾市场收益的。  
-月经，以及和它相关的词，似乎都是羞于说出口的，是公认的“不登大雅之堂”的。学术期刊上找不到关于女性卫生产品使用状况的研究，甚至UNICEF在2017年进行的阿富汗女性月经调查不知为什么被删掉了。  
-但是我依然可以看见，看见有媒体做女性因为月经失去的财富的计算器，有人在手动统计各个地区的卫生棉条价格、测量女性一个生理周期的失血量，虽然手动收集的数据很简陋，没什么能用的（喂）。  
-非常可惜的是，这些零星的数据也几乎都是国外的，放眼国内，“经期贫困”很少被媒体或者学术圈提起，我只能通过几篇关于中国慈善组织的采访，想象中国那一部分女性的现状。“有时候骑车上学走山路，草纸会从裤子里掉出来，女生就蹲在自行车旁默默的哭泣。”。  
-在我们国家，我们觉得没有经期贫困，是因为我们看不见。  
-但是看不见不代表不存在，中国的卫生巾价格放在整个世界市场上其实并不便宜，这还没有算上人均年收入差异。2018、2019年月经税减免运动在英国闹得沸沸扬扬，而我在做这个题之前，未曾听说过我们国家的波澜。  
-只是光没有照过去，我们看不见罢了。  
-这个题我做的很疲惫，因为当我想理性地分析现状的时候，我看到的是一片空白。  
-但是总有人要做这个题的。一定得有人做这个题的。  
-人需要注意到房间里的大象。  
-四十年前，女性生育被当成一个自然的生理过程，六十年前，中国妇女的平均生育第一胎年龄是22岁。现在，女性分娩问题、早婚问题已经得到越来越多的关注，希望月经问题也是如此。  
-我们不能指望慈善组织来帮助所有饱受其折磨而且羞于说出的女性，我们需要决策者的声音、研究者的声音。  
-可是我们能做的又似乎只有寄希望于慈善组织。  
-“漫山遍野传来‘姐姐来了’的呐喊，孩子们在黑暗的长夜里抬头张望。”  
-那么就发声吧。  
+&emsp;&emsp; 我翻遍了google、bing和百度搜索引擎上的内容，翻了一遍又一遍的statista。  
+&emsp;&emsp; 几乎一切“卫生巾”相关的数据统计都是和商业挂钩的，现存的报告都是关于卫生巾市场收益的。  
+&emsp;&emsp; 月经，以及和它相关的词，似乎都是羞于说出口的，是公认的“不登大雅之堂”的。学术期刊上找不到关于女性卫生产品使用状况的研究，甚至UNICEF在2017年进行的阿富汗女性月经调查不知为什么被删掉了。  
+&emsp;&emsp; 但是我依然可以看见，看见有媒体做女性因为月经失去的财富的计算器，有人在手动统计各个地区的卫生棉条价格、测量女性一个生理周期的失血量，虽然手动收集的数据很简陋，没什么能用的（喂）。  
+&emsp;&emsp; 非常可惜的是，这些零星的数据也几乎都是国外的，放眼国内，“经期贫困”很少被媒体或者学术圈提起，我只能通过几篇关于中国慈善组织的采访，想象中国那一部分女性的现状。“有时候骑车上学走山路，草纸会从裤子里掉出来，女生就蹲在自行车旁默默的哭泣。”。  
+&emsp;&emsp; 在我们国家，我们觉得没有经期贫困，是因为我们看不见。  
+&emsp;&emsp; 但是看不见不代表不存在，中国的卫生巾价格放在整个世界市场上其实并不便宜，这还没有算上人均年收入差异。2018、2019年月经税减免运动在英国闹得沸沸扬扬，而我在做这个题之前，未曾听说过我们国家的波澜。  
+&emsp;&emsp; 只是光没有照过去，我们看不见罢了。  
+&emsp;&emsp; 这个题我做的很疲惫，因为当我想理性地分析现状的时候，我看到的是一片空白。  
+&emsp;&emsp; 但是总有人要做这个题的。一定得有人做这个题的。  
+&emsp;&emsp; 人需要注意到房间里的大象。  
+&emsp;&emsp; 四十年前，女性生育被当成一个自然的生理过程，六十年前，中国妇女的平均生育第一胎年龄是22岁。现在，女性分娩问题、早婚问题已经得到越来越多的关注，希望月经问题也是如此。  
+&emsp;&emsp; 我们不能指望慈善组织来帮助所有饱受其折磨而且羞于说出的女性，我们需要决策者的声音、研究者的声音。  
+&emsp;&emsp; 可是我们能做的又似乎只有寄希望于慈善组织。  
+&emsp;&emsp; “漫山遍野传来‘姐姐来了’的呐喊，孩子们在黑暗的长夜里抬头张望。”  
+&emsp;&emsp; 那么就发声吧。  
 
 *************
 作者：李晨雨   
-特别鸣谢：给了我很多帮助的苏老师和天使同学！  
+特别鸣谢：给了我很多帮助的苏老师和天使同学们！  
