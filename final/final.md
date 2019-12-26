@@ -45,7 +45,7 @@
 对于资助者来说，“白色贝壳”计划资助的压力不大，一年资助240元，用来给一个女生购买每个月的经期用品。  
 &emsp;&emsp;目前，相比于其他妇女儿童类公益项目，中国关注女性经期贫困的公益组织很少。  
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/7.jpg)
-&emsp;&emsp;今年十二月，春蕾计划被爆出挪用女童专项基金给男性受助者的丑闻，对于公益项目审视的目光也多了起来。有的公益项目遭到了质疑，如[春柳项目推进时卫生巾购入的单价过高](https://weibo.com/1652023133/Iliythex8?type=comment)。  
+&emsp;&emsp;今年十二月，春蕾计划被爆出挪用女童专项基金给男性受助者的丑闻，对于公益项目审视的目光也多了起来。有的公益项目遭到了质疑，如[春柳项目被质疑卫生用品购入的单价过高](https://weibo.com/1652023133/Iliythex8?type=comment)。  
 &emsp;&emsp;募捐者的善意能够缓解，但不能解决问题。如今，中国的女性卫生用品市场还在扩大，[卫生用品出口量已经远高于进口量](https://www.qianzhan.com/analyst/detail/220/180424-de8d3fc3.html)。但是一部分女性的经期问题还是被忽视的。如何降低卫生用品成本、如何带领女孩们走出世俗成见的藩篱，这或许是我们当下要解决的问题之一。  
 
 
@@ -54,64 +54,67 @@
 
 皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature、外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
 
-Statista：世界卫生用品市场各国占有率及全年市场收入、卫生巾市场规模https://www.statista.com/study/48853/tissue-and-hygiene-paper-report-feminine-hygiene/
+Statista：世界卫生用品市场各国占有率及全年市场收入、卫生巾市场规模https://www.statista.com/study/48853/tissue-and-hygiene-paper-report-feminine-hygiene/  
 
-UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf
-UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf
+UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf  
+UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf  
 
-卫生棉条价格对比https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country
-印度、美国、英国卫生巾价格对比
-印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece
+卫生棉条价格对比https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
+印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY
+印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
 中国卫生巾、卫生棉条市场参考：https://www.zhitongcaijing.com/content/detail/221856.html
-https://www.wdoodoo.com/article-2540.html
+https://www.wdoodoo.com/article-2540.html  
 
 各国的经期贫困现状：
 https://www.herreport.org/feminine-hygiene-products-around-the-world/
-https://m.weibo.cn/3099016097/4391539239062279
+https://m.weibo.cn/3099016097/4391539239062279  
 
-部分国家的卫生巾税率-1：https://www.europeandatajournalism.eu/eng/News/Data-news/Half-of-the-European-countries-levy-the-same-VAT-on-sanitary-towels-and-tampons-as-on-tobacco-beer-and-wine
-部分国家的卫生巾税率-2：https://zh.tradingeconomics.com/
-中国对于卫生巾的税率（线上咨询税务局人员，“那么多商品，没有办法列名录”）：http://beijing.chinatax.gov.cn/bjswjwz/
+部分国家的卫生巾税率-1：https://www.europeandatajournalism.eu/eng/News/Data-news/Half-of-the-European-countries-levy-the-same-VAT-on-sanitary-towels-and-tampons-as-on-tobacco-beer-and-wine  
+部分国家的卫生巾税率-2：https://zh.tradingeconomics.com/  
+中国对于卫生巾的税率（线上咨询税务局人员，“那么多商品，没有办法列名录”）：http://beijing.chinatax.gov.cn/bjswjwz/  
 
 世界各国女性人口总数统计
-https://www.kylc.com/stats/global/yearly_overview/g_population_female.html
+https://www.kylc.com/stats/global/yearly_overview/g_population_female.html  
 
-有关我国女性生理周期的数据：https://www.sohu.com/a/166973698_99900352
+有关我国女性生理周期的数据：https://www.sohu.com/a/166973698_99900352  
 
-微博讨论数来源：www.weibo.com
+微博讨论数来源：www.weibo.com  
 
-Bbc卫生用品消费计算器：https://www.bbc.com/news/health-42013239
+Bbc卫生用品消费计算器：https://www.bbc.com/news/health-42013239  
 
-三四线城市卫生巾假货泛滥：http://shipin.people.com.cn/n/2013/0424/c215731-21265221.html
+三四线城市卫生巾假货泛滥：http://shipin.people.com.cn/n/2013/0424/c215731-21265221.html  
 
 中国出口的月经垫：
-https://daxueconsulting.com/sanitary-pads-tampons-feminine-hygiene-market-in-china/
-https://mamanloupsden.com/2014/05/17/cloth-diaper-newbies-china-cheapies-maman-loup-weighs-in/
+https://daxueconsulting.com/sanitary-pads-tampons-feminine-hygiene-market-in-china/  
+https://mamanloupsden.com/2014/05/17/cloth-diaper-newbies-china-cheapies-maman-loup-weighs-in/  
 
-2017中国女性生理健康白皮书 https://www.sohu.com/a/166973698_99900352
+2017中国女性生理健康白皮书 https://www.sohu.com/a/166973698_99900352  
 
-上海仁德基金会资金公开http://mini.eastday.com/a/191219150708207.html
+上海仁德基金会资金公开http://mini.eastday.com/a/191219150708207.html  
 
-中国女性卫生用品进出口情况：http://www.sohu.com/a/294626168_818619
-Kaggle：无数据
-WHO女性、儿童与健康专题：无数据
-知网、万方数据库：只有关于卫生巾技术创新的文章、科普生理卫生的报道，没有相关调查研究
+中国女性卫生用品进出口情况：http://www.sohu.com/a/294626168_818619  
+此外：  
+Kaggle：无数据  
+WHO女性、儿童与健康专题：无数据  
+知网、万方数据库：只有关于卫生巾技术创新的文章、科普生理卫生的报道，没有相关调查研究  
 ## 后记
-我翻遍了google、bing和百度搜索引擎上的内容，翻了一遍又一遍的statista。
-几乎一切“卫生巾”相关的数据统计都是和商业挂钩的，现存的报告都是关于卫生巾市场收益的
-月经，以及和它相关的词，似乎都是羞于说出口的，是公认的“不登大雅之堂”的。学术期刊上找不到关于女性卫生产品使用状况的研究，甚至UNICEF在2017年进行的阿富汗女性月经调查不知为什么被删掉了。
-但是我依然可以看见，看见有媒体做女性因为月经失去的财富的计算器，有人在手动统计各个地区的卫生棉条价格、测量女性一个生理周期的失血量，虽然手动收集的数据很简陋，没什么能用的（喂）。
-非常可惜的是，这些零星的数据也几乎都是国外的，放眼国内，“经期贫困”很少被媒体或者学术圈提起，我只能通过几篇关于中国慈善组织的采访，想象中国那一部分女性的现状。“有时候骑车上学走山路，草纸会从裤子里掉出来，女生就蹲在自行车旁默默的哭泣。”。
-在我们国家，我们觉得没有经期贫困，是因为我们看不见。
-但是看不见不代表不存在，中国的卫生巾价格放在整个世界市场上其实并不便宜，这还没有算上人均年收入差异。2018、2019年月经税减免运动在英国闹得沸沸扬扬，而我在做这个题之前，未曾听说过我们国家的波澜。
-只是光没有照过去，我们看不见罢了。
-这个题我做的很疲惫，因为当我想理性地分析现状的时候，我看到的是一片空白。
-但是总有人要做这个题的。一定得有人做这个题的。
-要让更多人注意到房间里的大象。
-四十年前，女性生育被当成一个自然的生理过程，六十年前，中国妇女的平均生育第一胎年龄是22岁。现在，女性分娩问题、早婚问题已经得到越来越多的关注，希望月经问题也是如此。
-我们不能指望慈善组织来帮助所有饱受其折磨而且羞于说出的女性，我们需要决策者的声音、研究者的声音。
-可是我们能做的又似乎只有寄希望于慈善组织。
-“漫山遍野传来‘姐姐来了’的呐喊，孩子们在黑暗的长夜里抬头张望。”
-那么就发声吧。
+我翻遍了google、bing和百度搜索引擎上的内容，翻了一遍又一遍的statista。  
+几乎一切“卫生巾”相关的数据统计都是和商业挂钩的，现存的报告都是关于卫生巾市场收益的。  
+月经，以及和它相关的词，似乎都是羞于说出口的，是公认的“不登大雅之堂”的。学术期刊上找不到关于女性卫生产品使用状况的研究，甚至UNICEF在2017年进行的阿富汗女性月经调查不知为什么被删掉了。  
+但是我依然可以看见，看见有媒体做女性因为月经失去的财富的计算器，有人在手动统计各个地区的卫生棉条价格、测量女性一个生理周期的失血量，虽然手动收集的数据很简陋，没什么能用的（喂）。  
+非常可惜的是，这些零星的数据也几乎都是国外的，放眼国内，“经期贫困”很少被媒体或者学术圈提起，我只能通过几篇关于中国慈善组织的采访，想象中国那一部分女性的现状。“有时候骑车上学走山路，草纸会从裤子里掉出来，女生就蹲在自行车旁默默的哭泣。”。  
+在我们国家，我们觉得没有经期贫困，是因为我们看不见。  
+但是看不见不代表不存在，中国的卫生巾价格放在整个世界市场上其实并不便宜，这还没有算上人均年收入差异。2018、2019年月经税减免运动在英国闹得沸沸扬扬，而我在做这个题之前，未曾听说过我们国家的波澜。  
+只是光没有照过去，我们看不见罢了。  
+这个题我做的很疲惫，因为当我想理性地分析现状的时候，我看到的是一片空白。  
+但是总有人要做这个题的。一定得有人做这个题的。  
+人需要注意到房间里的大象。  
+四十年前，女性生育被当成一个自然的生理过程，六十年前，中国妇女的平均生育第一胎年龄是22岁。现在，女性分娩问题、早婚问题已经得到越来越多的关注，希望月经问题也是如此。  
+我们不能指望慈善组织来帮助所有饱受其折磨而且羞于说出的女性，我们需要决策者的声音、研究者的声音。  
+可是我们能做的又似乎只有寄希望于慈善组织。  
+“漫山遍野传来‘姐姐来了’的呐喊，孩子们在黑暗的长夜里抬头张望。”  
+那么就发声吧。  
 
-
+*************
+作者：李晨雨   
+特别鸣谢：给了我很多帮助的苏老师和天使同学！  
