@@ -17,7 +17,7 @@
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/1.jpg)
 &emsp;&emsp;以[当前我国市场上价格最低](https://www.zhitongcaijing.com/content/detail/221856.html)的品牌卫生巾“洁伶”为例，日用和夜用的平均价格均为0.39元/片，我国女性的[平均生理周期为5.8天](https://www.sohu.com/a/166973698_99900352).女性更换卫生巾频率约为白天4次，夜晚1次，一次经期支付的费用大约为0.39*5.8*5=11.31元。这笔钱对如今绝大多数女性来说，似乎是可以承受的。  
 ## Part2. 中国并不缺卫生巾
-&emsp;&emsp;中国拥有全世界最大的卫生巾市场。  
+&emsp;&emsp;中国拥有全世界最大的女性卫生用品市场。  
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/2.jpg)
 &emsp;&emsp;在这张图中，世界各国女性卫生市场收入/各国女性人口数是趋近一个常数9.385（$），其含义是这些国家每位女性每年平均为卫生用品贡献的金额大约为9.385美元。  
 &emsp;&emsp;大多亚非的国家，如巴基斯坦、尼日利亚、埃及，都达不到这个值。  
