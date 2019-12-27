@@ -120,4 +120,5 @@ WHO女性、儿童与健康专题：无数据
 
 *************
 作者：李晨雨   
+使用工具：八爪鱼、EXCEL、spss、hanabi、tableau、Adobe Illustrator、Adobe Photoshop
 特别鸣谢：给了我很多帮助的苏老师和天使同学们！  
