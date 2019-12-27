@@ -15,7 +15,7 @@
 &emsp;&emsp;月经会导致女性额外的付出，CNN和BBC等媒体制作了[经期浪费体力计算器](https://edition.cnn.com/interactive/2018/10/health/period-poverty-calcuator-asequals-intl/)、[经期花销计算器](https://www.bbc.com/news/health-42013239)等程序，可以帮助女性了解她们在月经上的付出。    
 &emsp;&emsp;相较于欧美等地，由于我国的原材料、人工价格较低的原因，国际品牌在中国的卫生巾价格要略低一些，但并不低很多。因此中国的卫生巾其实并不廉价。    
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/1.jpg)
-&emsp;&emsp;以[当前我国市场上价格最低](https://www.zhitongcaijing.com/content/detail/221856.html)的品牌卫生巾“洁伶”为例，日用和夜用的平均价格均为0.39元/片，我国女性的[平均生理周期为5.8天](https://www.sohu.com/a/166973698_99900352).女性更换卫生巾频率约为白天4次，夜晚1次，一次经期支付的费用大约为0.39*5.8*5=11.31元。这笔钱对如今绝大多数女性来说，似乎是可以承受的。  
+&emsp;&emsp;以[当前我国市场上价格最低](https://www.zhitongcaijing.com/content/detail/221856.html)的品牌卫生巾“洁伶”为例，日用和夜用的平均价格均为0.39元/片，我国女性的[平均生理周期为5.8天](https://www.sohu.com/a/166973698_99900352).女性更换卫生巾频率约为白天4次，夜晚1次，一次经期支付的费用大约为***0.39x5.8x5=11.31元***。这笔钱对如今绝大多数女性来说，似乎是可以承受的。  
 ## Part2. 中国并不缺卫生巾
 &emsp;&emsp;中国拥有全世界最大的女性卫生用品市场。  
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/2.jpg)
