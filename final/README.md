@@ -34,20 +34,25 @@
 之前还考虑过这样的构图，税率为横坐标，市场收入为纵坐标，女性人数为大小，这样可以比较快地看出欧洲明显税率都偏高，就可以引出原因是欧洲经济一体化的影响了。但是权衡了之后觉得还是用女性群体人数作为横坐标更好，人均支出更能体现出一个国家女性卫生用品的消费水平，也可以引出我之后要说的中国消费水平比较高的问题。
 **4. 参考资料（链接或文件）**
 
-1. 中国女性
+1. 中国“月经贫困”现状调查：  
+2. 中国女性用品市场数据：
 皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature  
+中国女性经期产品倾向性：[2017中国女性生理健康白皮书](https://www.sohu.com/a/166973698_99900352)  
+
+3. 全球女性用品市场数据：
 外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
 
-Statista：世界卫生用品市场各国占有率及全年市场收入、卫生巾市场规模https://www.statista.com/study/48853/tissue-and-hygiene-paper-report-feminine-hygiene/  
+4. 各国卫生用品价格比较
+卫生棉条价格对比: https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
+印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY  
+印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
+中国卫生巾、卫生棉条价格参考：https://www.zhitongcaijing.com/content/detail/221856.html
+https://www.wdoodoo.com/article-2540.html  
 
 UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf  
 UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf  
 
-卫生棉条价格对比https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
-印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY  
-印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
-中国卫生巾、卫生棉条市场参考：https://www.zhitongcaijing.com/content/detail/221856.html
-https://www.wdoodoo.com/article-2540.html  
+
 
 各国的经期贫困现状：
 https://www.herreport.org/feminine-hygiene-products-around-the-world/
@@ -72,7 +77,7 @@ Bbc卫生用品消费计算器：https://www.bbc.com/news/health-42013239
 https://daxueconsulting.com/sanitary-pads-tampons-feminine-hygiene-market-in-china/  
 https://mamanloupsden.com/2014/05/17/cloth-diaper-newbies-china-cheapies-maman-loup-weighs-in/  
 
-2017中国女性生理健康白皮书 https://www.sohu.com/a/166973698_99900352  
+
 
 上海仁德基金会资金公开http://mini.eastday.com/a/191219150708207.html  
 
