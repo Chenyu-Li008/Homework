@@ -40,16 +40,16 @@
 ### 筛选数据 ###
 进入国家统计局网站，选择【季度数据】分类http://data.stats.gov.cn/easyquery.htm?cn=B01  
 由于需要计算2012年季度增速，因此需要2011年的数据，于是在【时间】的筛选窗口输入条件【2011-】（-需在半角输入模式下输入），获得2011年以来，每年各个季度的GDP值，为了方便观看，在【报表管理】-【编辑】中选择只显示“国内生产总值_当季值”的数据  
-![](https://github.com/Chenyu-Li008/Homework/blob/master/1.jpg)
-![](https://github.com/Chenyu-Li008/Homework/blob/master/2.jpg)
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week2/1.jpg) 
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week2/2.jpg)
 ### 统计指标选取 ###
 有两种指标可以选取，一种为GDP（现价），一种为GDP（不变价），查阅资料可知，现价是名义价格，不变价是以某年份现价作为基期扣除价格变动因素的价格。  
 按现价计算的指标，在不同年份之间的变动包含价格变动和物量变动的因素，必须消除价格变动的因素后才能真实反映经济发展动态。  
 而使用不变价计算增速可以减少因价格变化造成的影响，因此计算增速选择GDP（不变价）。  
-![](https://github.com/Chenyu-Li008/Homework/blob/master/7.png)
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week2/7.png)
 ### 数据页面 ###
 2011年至2018年GDP（不变价）数据整理如下（顺序为第四季度-第三季度-第二季度-第一季度）  
-![](https://github.com/Chenyu-Li008/Homework/blob/master/3.jpg)
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week2/3.jpg)
 ### 计算步骤 ###
 我选择使用EXCEL进行数据计算  
 1、新建一个EXCEL，将数据导入  
@@ -59,7 +59,7 @@
 5、乘100%，得到增速，保留四位有效数字，。
 6、同理，得到其他六年的增速  
 7、由于到了2015年，基准年份变动为2015年，使用2015年的不变价计算2016年的增速，得到的结果会骤然增大。因此2016年的季度GDP增速计算方式为 （2016年GDP不变价-2015年GDP现价）/2015年GDP现价
-![](https://github.com/Chenyu-Li008/Homework/blob/master/5.jpg)
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week2/5.jpg)
 ### 计算结果 ###
 #### 2012-2018年GDP（不变价）季度增长率 ####
 <table>
