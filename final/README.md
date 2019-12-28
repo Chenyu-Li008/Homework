@@ -29,12 +29,12 @@
 &emsp;&emsp;**数据本身没有观点，我主观上一直认为在中国20元一个月很低，“怎么会有人一个月20块钱都拿不出来呢？？？”，但是这显然不是事实，这也是非常傲慢的猜想**  
 &emsp;&emsp;当然出了出不起钱，女孩羞于提出要求也是一个原因。  
 
-+ Part3. 怎样缓解或解决“经期贫困”？
++ Part3. 怎样缓解或解决“经期贫困”？  
 &emsp;&emsp;国外的对策有三：降低税率、更换可循环利用的卫生产品、慈善组织介入，于是这个部分就是对比国际和中国在这三个方面的的情况。  
 &emsp;&emsp;后来我关于中国女性关于卫生用品的喜好方面没啥办法，网上的数据找不到最新的，杜萌老师表示你为什么不爬一下微博的讨论数，八爪鱼很好用的。于是我又用八爪鱼爬了20天的内容（其实想爬更多的，但是八爪鱼好像有bug爬不到再前时候的），看看中国女性对几种产品的讨论数，不出意外的是月经杯最低，又做了分词统计，看看大家关心的是哪些方面问题。
 
 + 尾声  
-**下结论：在中国，“经期贫困”的问题被严重忽视了，中国在这缓解这个问题的三个方面做得都还不够，任重而道远。**
+&emsp;&emsp;**下结论：在中国，“经期贫困”的问题被严重忽视了，中国在这缓解这个问题的三个方面做得都还不够，任重而道远。**
 
 
 **3. 视觉呈现的选择**  
@@ -48,7 +48,11 @@
 &emsp;&emsp;之前还考虑过这样的构图，税率为横坐标，市场收入为纵坐标，女性人数为大小，这样可以比较快地看出欧洲明显税率都偏高，就可以引出原因是欧洲经济一体化的影响了。但是权衡了之后觉得还是用女性群体人数作为横坐标更好，人均支出更能体现出一个国家女性卫生用品的消费水平，也可以引出我之后要说的中国消费水平比较高的问题。
 
 **4. 参考资料（链接或文件）**
-1. 中国“月经贫困”现状调查：  
+1. 中国“月经贫困”现状：  
+https://mp.weixin.qq.com/s/6A1UgW2CxK3OZP5kM7lVKQ
+[皮书数据库：外出与农村妇女的生殖健康](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature)
+中国人口信息研究中心“流动人口研究”课题组.人口流动对农村妇女计划生育与生殖健康的影响[J].人口与计划生育,2001(05):37-41.
+
 
 2. 各国的经期贫困现状（多是报道）：
 https://www.unfpa.org/news/period-shame-misinformation-linked-serious-human-rights-concerns
@@ -56,55 +60,48 @@ https://www.herreport.org/feminine-hygiene-products-around-the-world/
 https://m.weibo.cn/3099016097/4391539239062279  
 
 3. 中国女性用品市场数据：
-皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature  
+[皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature)  
 中国女性经期产品倾向性：[2017中国女性生理健康白皮书](https://www.sohu.com/a/166973698_99900352)  
 
 4. 全球女性用品市场数据：
-皮书数据库：外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
-中国人口信息研究中心“流动人口研究”课题组.人口流动对农村妇女计划生育与生殖健康的影响[J].人口与计划生育,2001(05):37-41.
+[Feminine hygiene market](https://www.statista.com/study/57876/feminine-hygiene-market/)
 
 5. 各国卫生用品价格比较：  
-卫生棉条价格对比: https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
+一个小姐姐做的卫生棉条价格对比 https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
 印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY  
 印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
 中国卫生巾、卫生棉条价格参考：https://www.zhitongcaijing.com/content/detail/221856.html
 https://www.wdoodoo.com/article-2540.html  
 UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf  
-
 UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf  
 
-各个国家卫生巾税率：
-部分国家的卫生巾税率-1：https://www.europeandatajournalism.eu/eng/News/Data-news/Half-of-the-European-countries-levy-the-same-VAT-on-sanitary-towels-and-tampons-as-on-tobacco-beer-and-wine  
-部分国家的卫生巾税率-2：https://zh.tradingeconomics.com/  
+6. 各个国家卫生巾税率：
+[部分国家的卫生巾税率-1](https://www.europeandatajournalism.eu/eng/News/Data-news/Half-of-the-European-countries-levy-the-same-VAT-on-sanitary-towels-and-tampons-as-on-tobacco-beer-and-wine)  
+[部分国家的卫生巾税率-2](https://zh.tradingeconomics.com/)  
 中国对于卫生巾的税率，我去了[国家税务局](http://beijing.chinatax.gov.cn/bjswjwz/)的网站，线上咨询税务局人员，对于我表示查不到卫生巾税，他表示，“那么多商品，没有办法列名录”：
 
-世界各国女性人口总数统计
-https://www.kylc.com/stats/global/yearly_overview/g_population_female.html  
-
-有关我国女性生理周期的数据：https://www.sohu.com/a/166973698_99900352  
-
-微博讨论数来源：www.weibo.com  
-
-Bbc卫生用品消费计算器：https://www.bbc.com/news/health-42013239  
-
-三四线城市卫生巾假货泛滥：http://shipin.people.com.cn/n/2013/0424/c215731-21265221.html  
-
+7. 进出口情况：
 中国出口的月经垫：
 https://daxueconsulting.com/sanitary-pads-tampons-feminine-hygiene-market-in-china/  
 https://mamanloupsden.com/2014/05/17/cloth-diaper-newbies-china-cheapies-maman-loup-weighs-in/  
-
-
-
-上海仁德基金会资金公开http://mini.eastday.com/a/191219150708207.html  
-
 中国女性卫生用品进出口情况：http://www.sohu.com/a/294626168_818619  
+
+8. 其他：
+世界各国女性人口总数统计
+https://www.kylc.com/stats/global/yearly_overview/g_population_female.html  
+有关我国女性生理周期的数据：https://www.sohu.com/a/166973698_99900352  
+微博讨论数来源：www.weibo.com  
+Bbc卫生用品消费计算器：https://www.bbc.com/news/health-42013239  
+三四线城市卫生巾假货泛滥：http://shipin.people.com.cn/n/2013/0424/c215731-21265221.html  
+上海仁德基金会资金公开http://mini.eastday.com/a/191219150708207.html 
+
 
 ## 三、关于遗憾的地方
 + 急懵了没有去找其他数据新闻作品参考，去pudding看了几个案例就匆匆开始做了，但是现在想起来，对于我这样初级阶段的人而言，模仿很重要，无论是寻找数据源还是数据呈现方式。
 + 拖延了很久，杜萌老师问我，你今天都干了什么的时候，我往往回答不出来，大约有很多时间花在了翻看各种各样的报道上，而里面的要么没有数据，要么就是零散的、重复的、矛盾的，对数据收集来说帮助很小，除了能够在文中某些个地方标个链接指引一下。而我又没有一开始就把所有我看到的数据记录下来，就导致之后出现了很多重复的工作，而且人也很疲惫。
-+ 过于崇拜数据，忽略了引用例证也很有用
-&emsp;&emsp;**是什么？真的吗？为什么？怎么办？**每个环节都要去找一轮数据，我性子又死轴，如果找不到恰当的数据证明我的观点我就没有办法下一步推理，我们国家女性卫生巾的社会问题这一块又接近空白（啊啊啊啊啊啊啊啊啊！！！！）。  
-&emsp;&emsp;我就觉得如果没有数据，我做出来的东西就会像百家号那样*（那么这个问题是怎么样的呢？……这就是小编为您介绍的XXX，这下您明白XXX是什么了吗）*是胡扯。
++ 过于崇拜数据，忽略了引用例证也很有用。  
+&emsp;&emsp; 是什么？真的吗？为什么？怎么办？每个环节都要去找一轮数据，我性子又死轴，如果找不到恰当的数据证明我的观点我就没有办法下一步推理，我们国家女性卫生巾的社会问题这一块又接近空白（啊啊啊啊啊啊啊啊啊！！！！）。  
+&emsp;&emsp;我就觉得如果没有数据，我做出来的东西就会像百家号那样*（那么这个问题是怎么样的呢？……这就是小编为您介绍的XXX，这下您明白XXX是什么了吗）*是胡扯。  
 &emsp;&emsp;数据虽然科学性强，但是也有可获得性的难度，我当时没有想到可以用**采访或者放案例**的方式来论证，看了星璇和鸿茹的作品之后我觉得后者是可行的，依然有说服力，而且还会形成一张一弛的效果。
 
 ## 四、用到的数据 ##
