@@ -31,18 +31,25 @@
 + 其他的图就中规中矩吧，比较用条形、趋势用折线、地理比较用地图。因为没有找到特别大体量的数据所以没有办法搞看上去酷炫的图了（？）
 + 图2是我做的比较久的图，先前我做图只是为了让图形佐证我的观点，但是这一次我是通过这张图来得出结论。斜率是把相关数据导入到SPSS里面计算出来的（所以有一种迷之社会调查既视感）。我对信息量很大的图还挺憧憬的，感觉从不同的角度看能得出不同规律的图其实很有价值。
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/final/2-%E5%88%9D%E6%80%9D%E8%B7%AF.png)
-之前还考虑过这样的构图，税率为横坐标，市场收入为纵坐标，女性人数为大小，这样可以比较快地看出欧洲明显税率都偏高，就可以引出原因是欧洲经济一体化的影响了。但是权衡了之后觉得还是用女性群体人数作为横坐标更好，人均支出更能体现出一个国家女性卫生用品的消费水平，也可以引出我之后要说的中国消费水平比较高的问题。
-**4. 参考资料（链接或文件）**
+之前还考虑过这样的构图，税率为横坐标，市场收入为纵坐标，女性人数为大小，这样可以比较快地看出欧洲明显税率都偏高，就可以引出原因是欧洲经济一体化的影响了。但是权衡了之后觉得还是用女性群体人数作为横坐标更好，人均支出更能体现出一个国家女性卫生用品的消费水平，也可以引出我之后要说的中国消费水平比较高的问题。  
 
+**4. 参考资料（链接或文件）**
 1. 中国“月经贫困”现状调查：  
-2. 中国女性用品市场数据：
+
+2. 各国的经期贫困现状（多是报道）：
+https://www.unfpa.org/news/period-shame-misinformation-linked-serious-human-rights-concerns
+https://www.herreport.org/feminine-hygiene-products-around-the-world/
+https://m.weibo.cn/3099016097/4391539239062279  
+
+3. 中国女性用品市场数据：
 皮书数据库：2019年全球卫生巾市场现状及厂商对比分析报告https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature  
 中国女性经期产品倾向性：[2017中国女性生理健康白皮书](https://www.sohu.com/a/166973698_99900352)  
 
-3. 全球女性用品市场数据：
-外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
+4. 全球女性用品市场数据：
+皮书数据库：外出与农村妇女的生殖健康https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=5773881&contentType=literature
+中国人口信息研究中心“流动人口研究”课题组.人口流动对农村妇女计划生育与生殖健康的影响[J].人口与计划生育,2001(05):37-41.
 
-4. 各国卫生用品价格比较
+5. 各国卫生用品价格比较：  
 卫生棉条价格对比: https://rubycup.com/blogs/news/would-your-period-be-cheaper-if-you-lived-in-another-country  
 印度、美国、英国卫生巾价格对比：https://www.researchgate.net/publication/310802443_WHICH_HYGIENIC_PRODUCTS_FOR_WHICH_CONTINENT_DESIGN_FOR_USAGE_AND_SUSTAINABILITY  
 印度卫生巾价格（₹3 to ₹4 per pad）：https://www.thehindubusinessline.com/economy/why-zero-gst-on-sanitary-napkins-may-just-be-a-populist-measure/article24513795.ece  
@@ -52,15 +59,10 @@ https://www.wdoodoo.com/article-2540.html
 UNICEF的女性卫生用品手册：https://www.unicef.org/wash/files/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf  
 UNICEF关于经期卫生的调查：https://www.unicef.org/media/49061/file/Progress_on_Drinking_Water_Sanitation_and_Hygiene_2017-ENG.pdf  
 
-
-
-各国的经期贫困现状：
-https://www.herreport.org/feminine-hygiene-products-around-the-world/
-https://m.weibo.cn/3099016097/4391539239062279  
-
+各个国家卫生巾税率：
 部分国家的卫生巾税率-1：https://www.europeandatajournalism.eu/eng/News/Data-news/Half-of-the-European-countries-levy-the-same-VAT-on-sanitary-towels-and-tampons-as-on-tobacco-beer-and-wine  
 部分国家的卫生巾税率-2：https://zh.tradingeconomics.com/  
-中国对于卫生巾的税率（线上咨询税务局人员，“那么多商品，没有办法列名录”）：http://beijing.chinatax.gov.cn/bjswjwz/  
+中国对于卫生巾的税率，我去了[国家税务局](http://beijing.chinatax.gov.cn/bjswjwz/)的网站，线上咨询税务局人员，对于我表示查不到卫生巾税，他表示，“那么多商品，没有办法列名录”：
 
 世界各国女性人口总数统计
 https://www.kylc.com/stats/global/yearly_overview/g_population_female.html  
