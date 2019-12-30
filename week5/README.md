@@ -43,25 +43,27 @@
 ![](https://github.com/Chenyu-Li008/Homework/blob/master/week5/3.png)
 + 最后，我根据自己读的文献，再带着说了一下未成年少女犯罪的特征，发出建议，结束。
 ## 三、信息/数据来源链接
-1. 美国未成年女性犯罪研究
-[Girls Study Group Understanding and Responding to Girls’ Delinquency](https://www.ncjrs.gov/pdffiles1/ojjdp/226358.pdf)
-[Girls and the Juvenile Justce System ](https://rights4girls.org/wp-content/uploads/r4g/2016/08/OJJDP-Policy-Guidance-on-Girls.pdf)
-2. 中国未成年女性犯罪研究
-未成年女性犯罪的二律背反现象剖析——以2007-2013年的数据为实证样本 厦门市思明区人民法院张晴(http://www.smcourt.com/flyj/llyt/201511/t20151119_31199.htm)
+1. 美国未成年女性犯罪研究  
+[Girls Study Group Understanding and Responding to Girls’ Delinquency](https://www.ncjrs.gov/pdffiles1/ojjdp/226358.pdf)  
+[Girls and the Juvenile Justce System ](https://rights4girls.org/wp-content/uploads/r4g/2016/08/OJJDP-Policy-Guidance-on-Girls.pdf)  
+2. 中国未成年女性犯罪研究  
+[未成年女性犯罪的二律背反现象剖析——以2007-2013年的数据为实证样本 厦门市思明区人民法院张晴](http://www.smcourt.com/flyj/llyt/201511/t20151119_31199.htm)  
 [Analysis of the Status of Juvenile Female Offenders in the
-Chinese Prison System, Using Beijing as an Example ](https://wipsymposium.org/wip2/wp-content/uploads/2014/04/he_en.pdf)
-3. 中国犯罪数据
-[全国法院审理青少年犯罪情况统计1997-2007](https://www.1xuezhe.exuezhe.com/Qk/art/416818?dbcode=1&flag=2)
-[国家统计局-青少年犯罪数据]( http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0S0P&sj=2018)
-[司法大数据研究院 司法案例研究院：司法大数据专题报告 未成年人犯罪](http://www.court.gov.cn/upload/file/2017/11/30/13/20/20171130132016_65864.pdf)
-[中国司法大数据研究院: 从司法大数据看我国未成年人权益司法保护和未成年人犯罪特点及其预防](http://www.court.gov.cn/upload/file/2018/06/01/10/12/20180601101246_54227.pdf)
-[中国犯罪报告-2017/2018](http://gongbao.court.gov.cn/ArticleList.html?serial_no=sftj)
-[国家统计局报告：中国未成年人犯罪比重持续降低](https://news.sina.com.cn/o/2019-12-06/doc-iihnzahi5721371.shtml0)
-[中国儿童数量-2015]( https://www.unicef.cn/figure-15-total-population-and-child-population-19532015)
-
-4. 美国及其他国家犯罪数据
-[美国未成年男女性数量](https://www.ojjdp.gov/ojstatbb/ezapop/asp)
-[世界各国未成年人犯罪率](https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf)
-5. 法律：
-[中华人民共和国未成年人保护法](https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95&count=72&cid=0639c1c221f3c543f519b37e6c36c2f4_law)
-[中华人民共和国刑事诉讼法](http://www.xinhuanet.com/politics/2018-10/27/c_1123620821_16.htm)
+Chinese Prison System, Using Beijing as an Example ](https://wipsymposium.org/wip2/wp-content/uploads/2014/04/he_en.pdf)  
+3. 中国犯罪数据  
+[全国法院审理青少年犯罪情况统计1997-2007](https://www.1xuezhe.exuezhe.com/Qk/art/416818?dbcode=1&flag=2)  
+[国家统计局-青少年犯罪数据]( http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0S0P&sj=2018)  
+[司法大数据研究院 司法案例研究院：司法大数据专题报告 未成年人犯罪](http://www.court.gov.cn/upload/file/2017/11/30/13/20/20171130132016_65864.pdf)  
+[中国司法大数据研究院: 从司法大数据看我国未成年人权益司法保护和未成年人犯罪特点及其预防](http://www.court.gov.cn/upload/file/2018/06/01/10/12/20180601101246_54227.pdf)  
+[中国犯罪报告-2017/2018](http://gongbao.court.gov.cn/ArticleList.html?serial_no=sftj)    
+[国家统计局报告：中国未成年人犯罪比重持续降低](https://news.sina.com.cn/o/2019-12-06/doc-iihnzahi5721371.shtml0)  
+[中国儿童数量-2015]( https://www.unicef.cn/figure-15-total-population-and-child-population-19532015)  
+4. 美国及其他国家犯罪数据  
+[美国未成年人犯罪数据](https://www.ojjdp.gov/ojstatbb/)  
+[美国未成年男女性数量](https://www.ojjdp.gov/ojstatbb/ezapop/asp)  
+[世界各国未成年人犯罪率](https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf)  
+5. 法律  
+[中华人民共和国未成年人保护法](https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95&count=72&cid=0639c1c221f3c543f519b37e6c36c2f4_law)  
+[中华人民共和国刑事诉讼法](http://www.xinhuanet.com/politics/2018-10/27/c_1123620821_16.htm)  
+*****************
+以上，想要苏老师的意见（嗷！），以及我们国家类似选题的可能挖掘角度！
