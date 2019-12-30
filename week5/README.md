@@ -31,7 +31,8 @@
 + 然后感觉数据的个数不是整数很难受（？），在知网搜了一通，搜到一篇[论文](https://www.1xuezhe.exuezhe.com/Qk/art/416818?dbcode=1&flag=2)上有97、98年数据。（~~但是也不是整数啊？？~~）
 + 找到[美国司法部青少年司法和预防青少年不良行为办公室](www.ojjdp.gov)这个网站特别有用！可以选择数据种类和年份进行统计！get到美国所有年份的未成年男性、女性未成年的犯罪数量。还在[这里](https://www.ojjdp.gov/ojstatbb/ezapop/asp/profile_display.asp)get到了美国相对应年份的未成年人数量！
 + 去[中华人民共和国最高法院官网的司法大数据栏目](http://gongbao.court.gov.cn/ArticleList.html?serial_no=sftj)，get我国2015-2016年的未成年人犯罪数据，包括性别比例；同时去[公报栏目](http://gongbao.court.gov.cn/)，get到我国近几年女性占总罪犯的人数（大概10%），心里有数。
-+ 有心多找几年未成年女性比例数据，但是居然找不到了，主要是都是各地的零碎的统计，没办法一起用。
++ 有心多找几年未成年女性比例数据，但是居然找不到了，主要是都是各地的零碎的统计，没办法一起用。我问了学法学的同学，她建议我去[中国法律文书网]找，嗷谁能想到这个文书网里也没统计未成年人犯罪呢！我发了邮件试图get未成年犯罪的数据，对方很快返了邮件，表示能公开的就是我目前找到的。
+![](https://github.com/Chenyu-Li008/Homework/blob/master/week5/4.png)
 + 真正难住我的，没想到居然是我们国家的未成年人人数，国家统计局虽说每年都有抽检，可以反推出年龄段人数，但是为什么！是按照0—14，15-19这么划分的！完全不能用！我都要搜吐了（略略略）！好在最后我发现了UNICEF的[中国儿童统计报告-2015年](https://www.unicef.cn/figure-15-total-population-and-child-population-19532015),终于找到2015年未成年人数量了。
 + 在[联合国毒品和犯罪问题办公室](https://www.unodc.org/documents/data-and-analysis/Crime-statistics/International_Statistics_on_Crime_and_Justice.pdf)找到2006年世界各国的（未成年）女性犯罪比例和人数。  
 + 期间看研究报告+论文xN,试图明白为什么女孩子犯罪那么少。  
