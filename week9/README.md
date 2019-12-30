@@ -1,4 +1,10 @@
-#
+# R语言复刻
+## 图一
+### 原图：
+
+### R复刻版
+
+### 代码
 
 > library(ggplot2)
 x <- c(1.0,19.2)
@@ -8,6 +14,7 @@ label <- c("female","male")
 > percent <-paste(percent, "%", sep = "")  #将不同数据类型放在一起
 > legend("topright",label, cex=0.8, fill=c("gold","blue4"))
 
+（这里是第二张图，代码是一样的）  
 > x <- c(366.6,819.9)
 > label <- c("female","male")
 > pie(x, labels = percent,main="不同性别未成年人犯罪率-美国",radius =0.8,col =c("gold","blue4"),clockwise = TRUE)
@@ -16,11 +23,15 @@ label <- c("female","male")
 > legend("topright",label, cex=0.8, fill=c("gold","blue4")
 
 
+## 图二
+### 原图：
 
-View(crime)
-options(scipen=200)
+### R复刻版
 
-ggplot(crime,aes(year,number,fill=type))+
+### 代码
+>View(crime)
+>options(scipen=200)
+>ggplot(crime,aes(year,number,fill=type))+
 geom_bar(stat="identity",position="stack")+
 theme_economist(base_size=14)+
 scale_fill_economist()+
